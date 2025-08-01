@@ -1,6 +1,6 @@
 # OpenMIPS-DIY
 
-事出突然，著手學習新領域：IC設計，就從學著DIY CPU開始吧！
+事出突然，著手學習新領域：IC設計，就從實作DIY CPU開始吧！
 
 ## 參考資料
 [自己動手寫CPU](https://www.books.com.tw/products/0010676982?srsltid=AfmBOorsCtljFEkeIaoOjn9Sw1b_vkFM44yGJLLw-dyZFZk96PCHi7tI)<br>
