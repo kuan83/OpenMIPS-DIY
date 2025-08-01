@@ -1,6 +1,6 @@
 # OpenMIPS-DIY
 
-因為人被雷打到，開始研究一個新領域：IC設計，就先從如何DIY CPU開始吧！
+因為人被雷打到，開始研究一個新領域：IC設計，就先從學著DIY CPU開始吧！
 
 ## 參考資料
 [自己動手寫CPU](https://www.books.com.tw/products/0010676982?srsltid=AfmBOorsCtljFEkeIaoOjn9Sw1b_vkFM44yGJLLw-dyZFZk96PCHi7tI)<br>
