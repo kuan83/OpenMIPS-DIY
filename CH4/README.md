@@ -3,7 +3,7 @@
 
 ## 安裝WSL
 因為我電腦是widnows的關係，現在有WSL可以直接在windows跑Linux
-`wsl --install
+wsl --install
 執行wsl.exe
 
 ## 安裝toolchian
