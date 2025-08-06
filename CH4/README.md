@@ -2,15 +2,15 @@
 [自己動手寫CPU]上面的編譯環境設定有點久遠了，我另外設定。
 
 ## 安裝WSL
-因為我電腦是widnows的關係，現在有WSL可以直接在windows跑Linux
+因為我電腦是widnows的關係，現在有WSL可以直接在windows跑Linux<br>
 wsl --install
-執行wsl.exe
+執行wsl.exe<br>
 
 ## 安裝toolchian
-進入linux環境
+進入linux環境<br>
   sudo apt-get install gcc-mips-linux-gnu
 
-測試
+測試<br>
   mips-linux-gnu-gcc --version
 
 正常的話會顯示
