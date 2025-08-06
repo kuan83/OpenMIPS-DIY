@@ -1,6 +1,7 @@
 # OpenMIPS-DIY
 
 學習IC設計，就從實作DIY CPU開始吧！
+(實作的程式碼來自[自己動手寫CPU]這本書，另外加註解幫助自己理解。)
 
 ## 參考資料
 [自己動手寫CPU](https://www.books.com.tw/products/0010676982?srsltid=AfmBOorsCtljFEkeIaoOjn9Sw1b_vkFM44yGJLLw-dyZFZk96PCHi7tI)<br>
