@@ -1,12 +1,12 @@
-## 使用GNU工具進行MIPS組譯
+# 使用GNU工具進行MIPS組譯
 [自己動手寫CPU]上面的編譯環境設定有點久遠了，我另外設定。
 
-# 安裝WSL
+## 安裝WSL
 因為我電腦是widnows的關係，現在有WSL可以直接在windows跑Linux
   wsl --install
 執行wsl.exe
 
-# 安裝toolchian
+## 安裝toolchian
 進入linux環境
   sudo apt-get install gcc-mips-linux-gnu
 
@@ -19,7 +19,7 @@ Copyright (C) 2022 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-# 進行MIPS組譯
+## 進行MIPS組譯
 
 建立 inst_rom.S
   mkdir -p ~/mips-test
