@@ -3,7 +3,7 @@
 
 ## 安裝WSL
 用WSL可以直接在Windows跑Linux<br>
-`wsl --install`
+`wsl --install`<br>
 執行wsl.exe<br>
 
 ## 安裝toolchian
