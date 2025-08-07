@@ -7,7 +7,7 @@
 執行wsl.exe<br>
 
 ## 安裝toolchian
-先進入linux環境<br>
+先進入linux環境，安裝gcc-mips-linux-gnu<br>
 `sudo apt-get install gcc-mips-linux-gnu`
 
 測試<br>
@@ -30,7 +30,7 @@ cd ~/mips-test
 使用 nano 建立並編輯檔案<br>
 `nano inst_rom.S`
 
-內容<br>
+inst_rom.S內容<br>
 ```
 .org 0x0               # 程式從位址 0x0 開始
 .global _start         # 定義全域入口點 _start
