@@ -2,7 +2,7 @@
 [自己動手寫CPU]上面的編譯環境設定有點久遠了，我另外設定。
 
 ## 安裝WSL
-因為我電腦是widnows的關係，WSL可以直接在windows跑Linux<br>
+用WSL可以直接在Windows跑Linux<br>
 wsl --install
 執行wsl.exe<br>
 
