@@ -3,15 +3,15 @@
 
 ## 安裝WSL
 用WSL可以直接在Windows跑Linux<br>
-wsl --install
+``wsl --install
 執行wsl.exe<br>
 
 ## 安裝toolchian
 進入linux環境<br>
-  sudo apt-get install gcc-mips-linux-gnu
+``sudo apt-get install gcc-mips-linux-gnu
 
 測試<br>
-  mips-linux-gnu-gcc --version
+``mips-linux-gnu-gcc --version
 
 正常的話會顯示<br> 
 (Ubuntu 12.3.0-17ubuntu1) 12.3.0
