@@ -30,7 +30,7 @@ cd ~/mips-test
 使用 nano 建立並編輯檔案<br>
 `nano inst_rom.S`
 
-inst_rom.S內容<br>
+編輯inst_rom.S內容<br>
 ```
 .org 0x0               # 程式從位址 0x0 開始
 .global _start         # 定義全域入口點 _start
