@@ -13,22 +13,22 @@ wsl --install
 測試<br>
   mips-linux-gnu-gcc --version
 
-正常的話會顯示
-mips-linux-gnu-gcc (Ubuntu 12.3.0-17ubuntu1) 12.3.0
+正常的話會顯示<br> 
+(Ubuntu 12.3.0-17ubuntu1) 12.3.0
 Copyright (C) 2022 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ## 進行MIPS組譯
 
-建立 inst_rom.S
+建立 inst_rom.S<br>
   mkdir -p ~/mips-test
   cd ~/mips-test
 
-使用 nano 建立並編輯檔案
+使用 nano 建立並編輯檔案<br>
   nano inst_rom.S
 
-內容
+內容<br>
   .org 0x0               # 程式從位址 0x0 開始
   .global _start         # 定義全域入口點 _start
   .set noat              # 允許使用暫存器 $1（避免 AT 警告）
